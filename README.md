@@ -1,6 +1,6 @@
 
 
-# SenseDrive
+# SenseDrive: Lidar & Vision-Based Autonomous Navigation
 
 SenseDrive is an open-source initiative aimed at advancing autonomous vehicle localization and navigation to achieve Autonomous Driving Level 5 (AD LEVEL 5). By leveraging onboard sensors and high-definition geolocated maps, the project aspires to develop robust solutions for seamless navigation in complex environments.
 
